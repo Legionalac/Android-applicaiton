@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="welcome">WELCOME</string>
+    <string name="new_list">NEW LIST</string>
+    <string name="see_my_lists">SEE MY LISTS</string>
+    <string name="naslov_liste">Naslov liste</string>
+    <string name="ok">OK</string>
+    <string name="naslov">Naslov</string>
+    <string name="share_list">Share list:</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="save">Save</string>
+    <string name="shared">Shared:</string>
+    <string name="add">ADD</string>
+    <string name="DB_NAME">shopping_list_app.db</string>
+    <string name="home">HOME</string>
+    <string name="ipAdress">http://192.168.2.157:3000/</string>
+    <string name="refresh">REFRESH</string>
+</resources>
